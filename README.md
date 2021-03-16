@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jscontreraspSLAB
+- 👋 Hi, I’m @jscontreraspSLAB, this account is my Slabcode Github Account, my personal github account is @jscontrerasp
 - 👀 I’m interested in BackEnd Developing
 - 🌱 I’m currently learning and improving C# dotnet core
 
